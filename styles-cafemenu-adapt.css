@@ -6,7 +6,7 @@ body::before {
   height: 100%;
   width: 100%;
   z-index: 0;
-  background-image: url('coffee-beans.jpg'); 
+  background-image: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq9Iz-PBX-kjR6Xdx2-qnJNYkqTkC9ZtisJ-d83_Xzjg1IG-7BZKfwtFYH_v7plpZYDUBPIKmCy5Ex_Vk09ifsz3ebqFtxyotwZTZeKt1KHDb3SC4JAiQmQIJEsrGX8GrA6CXq0j0GKMWy5RWQlO-_Lv2gyRhWZ20JDI7Gwz3Csj7EVqc5o9j6NyGdo8yU/s1280/coffee-beans.jpg); 
   background-size: cover;
   background-repeat: no-repeat;
   font-family: sans-serif;
